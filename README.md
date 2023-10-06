@@ -1,1 +1,1 @@
-# Snake_game_using_JAVASCRIPT
+# Snake_game_using_JAVASCRIPT_HTML_CSS
